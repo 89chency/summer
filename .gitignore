@@ -1,0 +1,9 @@
+output/
+materials/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
+desktop.ini
